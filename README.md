@@ -15,7 +15,7 @@ Politecnico di Milano
 
 MSc in Automation and Control Engineering | 2026 – Present
 BSc in Automation Engineering | March 2026
-Final Grade: 
+
 💻 Technical Skills
 Programming Languages
 
